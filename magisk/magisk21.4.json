@@ -3,20 +3,19 @@
     "version": "8.0.7",
     "versionCode": "4834",
     "link": "magisk/MagiskManager-v8.0.7.apk",
-    "note": "https://web.archive.org/web/20210618060314/http://download.qsbl.xyz:88/magisk/214/changelog.md"
-  },
+    "note": "magisk/read.md"
+},
   "stub": {
     "versionCode": "15",
-    "link": "https://web.archive.org/web/20210618060314/http://download.qsbl.xyz:88/magisk/214/stub-release.apk"
-  },
+    "link": "magisk/MagiskManager-v8.0.7.apk"
   "uninstaller": {
-    "link": "https://web.archive.org/web/20210618060314/http://download.qsbl.xyz:88/magisk/214/Magisk-uninstaller-20210117.zip"
+    "link": "magisk/Magisk-uninstaller-20210117.zip"
   },
   "magisk": {
     "version": "21.4",
     "versionCode": "21400",
     "link": "magisk/Magisk-v21.4.zip",
-    "note": "https://web.archive.org/web/20210618060314/http://download.qsbl.xyz:88/magisk/214/21400.md",
+    "note": "magisk/read.md",
     "md5": "ee6dd05579776e7de3a6077087846e53"
   }
 }
