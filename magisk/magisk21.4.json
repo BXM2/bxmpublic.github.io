@@ -2,20 +2,20 @@
   "app": {
     "version": "8.0.7",
     "versionCode": "4834",
-    "link": "magisk/MagiskManager-v8.0.7.apk",
-    "note": "magisk/read.md"
+    "link": "http://bup.netlify.app/magisk/MagiskManager-v8.0.7.apk",
+    "note": "http://bup.netlify.app/magisk/read.md"
 },
   "stub": {
     "versionCode": "15",
-    "link": "magisk/MagiskManager-v8.0.7.apk"
+    "link": "http://bup.netlify.app/magisk/MagiskManager-v8.0.7.apk"
   "uninstaller": {
-    "link": "magisk/Magisk-uninstaller-20210117.zip"
+    "link": "http://bup.netlify.app/magisk/Magisk-uninstaller-20210117.zip"
   },
   "magisk": {
     "version": "21.4",
     "versionCode": "21400",
-    "link": "magisk/Magisk-v21.4.zip",
-    "note": "magisk/read.md",
+    "link": "http://bup.netlify.app/magisk/Magisk-v21.4.zip",
+    "note": "http://bup.netlify.app/magisk/read.md",
     "md5": "ee6dd05579776e7de3a6077087846e53"
   }
 }
